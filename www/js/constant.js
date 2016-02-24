@@ -1,7 +1,7 @@
 (function(){
   angular.module('starter')
     .constant("FIREBASE", {
-      "URI": "https://luminous-torch-5124.firebaseio.com/"
+      "URI": "https://stormtestdev.firebaseio.com/"
     });
 
 })();
